@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l6u3wol24-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l6u3wol24-nodejs-gitops
